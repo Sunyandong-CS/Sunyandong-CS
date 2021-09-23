@@ -1,5 +1,9 @@
-### Hi there 👋
-[![Sun yandong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunyandong-CS)](https://github.com/Sunyandong-CS/github-readme-stats)
+### Hi, I am Sunyandong. An iOS Developer ..
+- 🔭 I’m currently working on Meituan
+- 🌱 I’m currently learning flutter & deep leaning
+- 📫 How to reach me: sunyandongxidian@gmail.com
+
+[![Sun yandong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunyandong-CS&show_icons=true&theme=radical)](https://github.com/Sunyandong-CS/github-readme-stats)
 
 
 <!--
