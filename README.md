@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Sun yandong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunyandong-CS)](https://github.com/Sunyandong-CS/github-readme-stats)
+
 
 <!--
 **Sunyandong-CS/Sunyandong-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
