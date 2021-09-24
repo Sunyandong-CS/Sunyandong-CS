@@ -1,6 +1,6 @@
-### Hi, I am Sunyandong. An iOS Developer ..
+### Hi, I am Sunyandong. An iOS Developer .
 - 🔭 I’m currently working on Meituan
-- 🌱 I’m currently learning flutter & deep learning
+- 🌱 I’m currently learning Flutter & Deep Learning
 - 📫 How to reach me: sunyandongxidian@gmail.com
 
 
