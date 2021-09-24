@@ -6,13 +6,13 @@
 
 <p align="center">
 	<a href="https://github.com/Sunyandong-CS" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api?username=Sunyandong-CS&show_icons=true&theme=radical" width="45%" alt="Sunyandong's GitHub stats"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=Sunyandong-CS&show_icons=true&theme=radical" width="51%" alt="Sunyandong's GitHub stats"/>
 	</a>
 	<a href="https://github.com/Sunyandong-CS" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyandong-CS&layout=compact&theme=dark" width="45%" alt="Sunyandong's github top skills"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunyandong-CS&layout=compact&theme=dark" width="43%" alt="Sunyandong's github top skills"/>
 	</a>
 	<a href="https://github.com/Sunyandong-CS" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunyandong-CS&theme=highcontrast" width="45%" alt="Sunyandong's github readme streak stats"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunyandong-CS&theme=highcontrast" width="65%" alt="Sunyandong's github readme streak stats"/>
 	</a>
 </p>
 
