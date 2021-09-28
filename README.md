@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Meituan <img src="https://s3plus-img.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:6fe402b6/meituan-logo-h.png" width="4%"/>
 - 🌱 I’m currently learning Flutter & Deep Learning
 - 📫 How to reach me: sunyandongxidian@gmail.com
-- 🤔 thinking...
+- 💼 Senior Engineer at Meituan.
 
 
 <p align="center">
